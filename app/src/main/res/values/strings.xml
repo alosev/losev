@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Developers Life</string>
+    <string name="prev_post">Prev post</string>
+    <string name="next_post">Next post</string>
+</resources>
